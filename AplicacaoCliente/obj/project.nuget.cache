@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CukwZGZ2S0Xx7hl8SfO6s6Y119H+hPsHQ1eMxJEUvESIAltuzHYd58Vizob1OFAMdXC3XT5EgGo1XSWOMJ6qyw==",
+  "success": true,
+  "projectFilePath": "C:\\Eduardo\\Cursos\\Udemy\\ServicoWebAPI\\AplicacaoCliente\\AplicacaoCliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desenv03\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

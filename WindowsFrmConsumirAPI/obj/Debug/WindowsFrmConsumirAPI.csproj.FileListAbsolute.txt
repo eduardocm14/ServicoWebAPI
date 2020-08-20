@@ -1,0 +1,12 @@
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\bin\Debug\WindowsFrmConsumirAPI.exe
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\bin\Debug\WindowsFrmConsumirAPI.exe.config
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\obj\Debug\ServicoWebAPI.FrmPrincipal.resources
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\obj\Debug\WindowsFrmConsumirAPI.Properties.Resources.resources
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\obj\Debug\WindowsFrmConsumirAPI.csproj.GenerateResource.cache
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\obj\Debug\WindowsFrmConsumirAPI.csproj.CoreCompileInputs.cache
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\obj\Debug\WindowsFrmConsumirAPI.csproj.CopyComplete
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\obj\Debug\WindowsFrmConsumirAPI.exe
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\obj\Debug\WindowsFrmConsumirAPI.pdb
+C:\Eduardo\Cursos\Udemy\ServicoWebAPI\WindowsFrmConsumirAPI\bin\Debug\WindowsFrmConsumirAPI.pdb
